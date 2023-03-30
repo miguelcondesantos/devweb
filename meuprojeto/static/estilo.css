@@ -1,0 +1,27 @@
+#body{
+    max-width: 80%;
+    margin: 0 auto;
+    background-image: url(../static/img/fundo.png);
+    padding-top: 2%;
+
+}
+
+#body2{
+    max-width: 80%;
+    margin: 0 auto;
+    background-image: url(../static/img/fundo2.png);
+    padding-top: 2%;
+
+}
+
+.links{
+    padding-top: 2%;
+    float: right;
+}
+
+#img-capa{
+    padding-top: 0.98%;
+    display: flex;
+    justify-content: center;
+}
+
